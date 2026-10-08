@@ -9,7 +9,7 @@
 | Android-приложение 1.0.1, Android 7.0+ | [Скачать APK](https://github.com/k1k1kik/bytex-hackathon-2026/releases/download/submission-2026-10-08/NaryadAI-Android-1.0.1.apk) |
 | Windows-установщик 1.8.1 | [Скачать EXE](https://github.com/k1k1kik/bytex-hackathon-2026/releases/download/submission-2026-10-08/NaryadAI-Setup-1.8.1.exe) |
 | Оригинальный ZIP с исходниками | [Скачать ZIP](https://github.com/k1k1kik/bytex-hackathon-2026/releases/download/submission-2026-10-08/hakaton-codex-flutter-android.zip) |
-| Краткая информация для судей | [Открыть TXT](<Краткая информация.txt>) / [Скачать оригинал](https://github.com/k1k1kik/bytex-hackathon-2026/releases/download/submission-2026-10-08/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.txt) |
+| Краткая информация для судей | [Открыть TXT](%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.txt) / [Скачать TXT](https://github.com/k1k1kik/bytex-hackathon-2026/releases/download/submission-2026-10-08/NaryadAI-Project-Info.txt) |
 | Контрольные суммы оригиналов | [SHA256SUMS.txt](SHA256SUMS.txt) |
 
 [Все файлы выпуска](https://github.com/k1k1kik/bytex-hackathon-2026/releases/tag/submission-2026-10-08). Установщики, архив и текст опубликованы в исходном виде. Исходный код распакован из предоставленного ZIP; главная страница дополнена ссылками, а README архива сохранён как [README-source.md](README-source.md).
