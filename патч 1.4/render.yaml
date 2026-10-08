@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: naryadai
+    runtime: python
+    rootDir: "патч 1.4"
+    plan: free
+    region: frankfurt
+    healthCheckPath: /health
+    buildCommand: pip install -r requirements-server.txt
+    startCommand: python run_server.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.13"
+      - key: TZ
+        value: Asia/Qyzylorda
+      - key: DATABASE_URL
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SECRET_KEY
+        sync: false
+      - key: AI_WORKER_TOKEN
+        sync: false
+      - key: BOOTSTRAP_PASSWORD
+        sync: false
+      - key: AI_ENABLED
+        value: "true"

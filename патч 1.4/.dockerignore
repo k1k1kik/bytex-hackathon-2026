@@ -1,0 +1,16 @@
+.git
+.venv
+.naryadai-runtime.json
+.naryadai-runtime.json.tmp
+__pycache__
+*.pyc
+*.db*
+*.log
+.env
+*.env
+server_config*.json
+worker_config.json
+client_config.json
+cloud-secrets.txt
+server_data
+photos
